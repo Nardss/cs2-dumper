@@ -1,0 +1,68 @@
+{
+    "buttons": [
+        {
+            "name": "attack",
+            "value": "0x181C160"
+        },
+        {
+            "name": "attack2",
+            "value": "0x181C1F0"
+        },
+        {
+            "name": "back",
+            "value": "0x181C430"
+        },
+        {
+            "name": "duck",
+            "value": "0x181C700"
+        },
+        {
+            "name": "forward",
+            "value": "0x181C3A0"
+        },
+        {
+            "name": "jump",
+            "value": "0x181C670"
+        },
+        {
+            "name": "left",
+            "value": "0x181C4C0"
+        },
+        {
+            "name": "lookatweapon",
+            "value": "0x1A27E30"
+        },
+        {
+            "name": "reload",
+            "value": "0x181C0D0"
+        },
+        {
+            "name": "right",
+            "value": "0x181C550"
+        },
+        {
+            "name": "showscores",
+            "value": "0x1A27D10"
+        },
+        {
+            "name": "sprint",
+            "value": "0x181C040"
+        },
+        {
+            "name": "turnleft",
+            "value": "0x181C280"
+        },
+        {
+            "name": "turnright",
+            "value": "0x181C310"
+        },
+        {
+            "name": "use",
+            "value": "0x181C5E0"
+        },
+        {
+            "name": "zoom",
+            "value": "0x1A27DA0"
+        }
+    ]
+}

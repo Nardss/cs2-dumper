@@ -1,0 +1,39 @@
+{
+    "GeneralOffsets": {
+        "name": "GeneralOffsets",
+        "constants": [
+            {
+                "name": "dwEntityList",
+                "value": "0x19BDE58"
+            },
+            {
+                "name": "dwGlobalVars",
+                "value": "0x1817638"
+            },
+            {
+                "name": "dwLocalPlayerController",
+                "value": "0x1A0DA88"
+            },
+            {
+                "name": "dwLocalPlayerPawn",
+                "value": "0x1823A08"
+            },
+            {
+                "name": "dwPlantedC4",
+                "value": "0x1A25288"
+            },
+            {
+                "name": "dwViewAngles",
+                "value": "0x1A2D328"
+            },
+            {
+                "name": "dwWindowHeight",
+                "value": "0x5F0424"
+            },
+            {
+                "name": "dwWindowWidth",
+                "value": "0x5F0420"
+            }
+        ]
+    }
+}
